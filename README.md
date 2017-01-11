@@ -10,7 +10,4 @@ Game lounches, controls are working. Animations work only for pawns (to fix this
 Also there is some logging in console, so you can see what's happening.
 
 Use left mouse click to select unit and right click to drop selection.
-After unit is selected use left click for action
-Green fields - for moving
-Red fields - for attacking
-Blue fields - for curing (King has this ability)
+After unit is selected use left click for action (green fields - for moving; red fields - for attacking; blue fields - for curing (King has this ability))
