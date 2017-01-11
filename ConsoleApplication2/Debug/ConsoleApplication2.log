@@ -1,0 +1,14 @@
+﻿  Units.cpp
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(68): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(127): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\units.cpp(128): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\source.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\учеба\cpp\проэкт\consoleapplication2\consoleapplication2\source.cpp(154): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication2.vcxproj -> D:\Учеба\CPP\Проэкт\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Учеба\CPP\Проэкт\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
